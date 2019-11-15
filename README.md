@@ -1,2 +1,6 @@
-# useLayoutEffect-example
-a useLayoutEffect example
+In the project directory, you can run:
+
+### `yarn`
+
+### `yarn start`
+
